@@ -20,7 +20,9 @@
 ### Ke Hack:
   1. Harus Logged In
   2. Ketik di nama Commision "ke hack"
-  3. Submit Commision
+  3. Deskripsi dan Gambar di isi bebas
+  4. Submit Commision
+  5. Untuk melihat commisions ke delete, harus di restart
 
 ## Tugas Web Programming 1
 
