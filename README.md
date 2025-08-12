@@ -1,7 +1,8 @@
 # Webprogramming Semester Antara
 
 ## Final Project <------- Pak Bintang ini pak  
-
+### NAMA FOLDER NYA: "fp"
+  
 1. Di VSCode Open Folder HTML biar gak ke refresh & "cd .."
 3. run uvicorn main:app --reload & buka Live Server
 ### Register:  
